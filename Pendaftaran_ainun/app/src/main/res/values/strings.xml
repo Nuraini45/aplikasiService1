@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pendaftaran_ainun</string>
+    <string name="labelapp">Pendaftaran</string>
+    <string name="un">Nama</string>
+    <string name="eml">Email</string>
+    <string name="tlp">Telp</string>
+    <string name="btn">Daftar</string>
+    <string name="hsl">Ini Tampilan Hasil</string>
+    <string name="masukan_email">Masukan email</string>
+    <string name="masukan_telp">Masukan telp</string>
+    <string name="masukan_nama">Masukan nama</string>
+</resources>
